@@ -1,4 +1,4 @@
 # ConwayGameOfLife
 ### Instructions
-cd www/
-npm run start
+- Step 1: cd www/
+- Step 2: npm run start
